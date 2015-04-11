@@ -2,4 +2,4 @@ POOII
 ========
 
 objetos2:
-Repositorio de la materia Programación Orientada a Objetos II
+Repositorio personal con ejercicios resueltos de la materia Programación Orientada a Objetos II
